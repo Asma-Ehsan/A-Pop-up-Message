@@ -4,7 +4,7 @@ A simple and beginner-friendly JavaScript project that displays a popup message 
 
 ## Live Demo
 Try it live here:  
-https://github.com/Asma-Ehsan/A-Pop-up-Message
+https://asma-ehsan.github.io/A-Pop-up-Message/
 
 ## Features
 - Button-triggered popup modal
@@ -36,4 +36,3 @@ https://github.com/Asma-Ehsan/A-Pop-up-Message
 - CSS
 - JavaScript (Vanilla JS)
 
-## Project Structure
